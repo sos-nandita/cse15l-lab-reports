@@ -1,6 +1,6 @@
 # Hi, this is *Nandita's* **page.** hiiii
 ## A little about me:
-uh idk
+uh **idk**
 
 Website link: [Lhasa Apso](https://en.wikipedia.org/wiki/Lhasa_Apso)
 
