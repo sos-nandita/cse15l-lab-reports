@@ -2,7 +2,7 @@
 ## A little about me:
 uh idk
 
-Website link: [Link](https://en.wikipedia.org/wiki/Lhasa_Apso)
+Website link: [Lhasa Apso](https://en.wikipedia.org/wiki/Lhasa_Apso)
 
-![Image]()
+![Image](https://github.com/sos-nandita/cse15l-lab-reports/blob/main/lhasa%20test%20imafe.jpg)
 
