@@ -2,4 +2,6 @@
 *wow* **dogs** are *cool*.
 
 
-[Link] (https://en.wikipedia.org/wiki/Lhasa_Apso)
+[Link][1]
+⋮
+[1]: https://en.wikipedia.org/wiki/Lhasa_Apso
