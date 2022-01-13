@@ -4,7 +4,7 @@ uh idk
 
 Website link: [Lhasa Apso](https://en.wikipedia.org/wiki/Lhasa_Apso)
 
-![Image](https://i.pinimg.com/1200x/1c/cb/f0/1ccbf0b5ce7cdcd909e6fb0fcb88fc91.jpg)
+![Image](https://media.istockphoto.com/photos/small-red-heart-and-white-background-and-copy-space-picture-id1201122291?k=20&m=1201122291&s=170667a&w=0&h=6MK_OQChYkZUb9E-Cp9zDCZsue937GJiOJQfe-iz9hs=)
 
 > this is kinda cool
 
