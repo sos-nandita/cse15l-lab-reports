@@ -1,3 +1,7 @@
-hello
-![Image](Screenshot%202022-01-13%20163819.png)
-[Lab Report 1](https://sos-nandita.github.io/cse-15l-lab-reports/lab-report-1-week-2.html)
+# Lab Report 1 Week 2
+
+## Topic: Remote Access
+How to access the > ieng6 servers remotely.
+
+### Step 1: Install VScode
+
