@@ -38,3 +38,8 @@ The outcome should look like this.
 * Then type `ls` to verify if the file has successfully been saved on server. 
 ![Image](tryingcom.png)
 ### Step 5: Setting an `SSH` Key
+* Type the command `ssh keygen`. This should generate a key to access ssh without a password. It will ask for passphrase and finger print. You can just hit Enter key on those. Then you will get a random art image.
+* If on windows you have to follow additional steps from [Microsoft](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation).
+* Then you need to copy the public key generated in the SSH server. So log into server and `mkdir ssh` and then logout. Then `scp` the location of the file to the server by using the command `scp /Users/username/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys'
+* When you log in it should look like this:
+![Image](sshlogin.png)
