@@ -1,21 +1,8 @@
-# Hi, this is *Nandita's* **page.** hiiii
-## A little about me:
-uh **idk**
+# *Nandita's* page. 
+## Lab Reports
 
-Website link: [Lhasa Apso](https://en.wikipedia.org/wiki/Lhasa_Apso)
+![Image](github%20index%20image.jpg)
 
-![Image](https://media.istockphoto.com/photos/small-red-heart-and-white-background-and-copy-space-picture-id1201122291?k=20&m=1201122291&s=170667a&w=0&h=6MK_OQChYkZUb9E-Cp9zDCZsue937GJiOJQfe-iz9hs=)
-
-> this is kinda cool
-
+* [Lap Report 1](https://github.com/sos-nandita/cse15l-lab-reports/lab-report-1-week-2.html)
 ---
-
-* list
-* list
-* list
-
-`inline code` w backticks?
-
-```
-hello world
-```
+* Lab Report 2 *coming soon*
