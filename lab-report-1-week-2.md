@@ -26,3 +26,15 @@ $ ssh cs15lwi22zz@ieng6.ucsd.edu
 Then, it will prompt you for your `Password: `. Type in your password (it wont display anything as you are typing it).
 The outcome should look like this.
 ![Image](connectingrem.png)
+### Step 3: Trying Some Commands
+* `cd ~` to go to the home directory, `cd` to change directroy to whichever you want.
+* `ls` to list all fiels in directory, `ls -l` is to long list information about files. `ls -a` is to show hidden files. `ls <directory>` to show files in a specific accounts directory.
+![Image](tryingcom.png)
+* Ctrl - D or `exit` to logout.
+### Step 4: Moving Files With `scp`
+* Create a file and save it on your client folder.
+![Image](scp1.png)
+* Type `scp file.java cs15lwi22zz@ieng6.ucsd.edu:~/` but replace `file.java` with the file you want to send to the server and `zz` with your own letter sequence. 
+* Then type `ls` to verify if the file has successfully been saved on server. 
+![Image](tryingcom.png)
+### Step 5: Setting an `SSH` Key
