@@ -43,3 +43,15 @@ The outcome should look like this.
 * Then you need to copy the public key generated in the SSH server. So log into server and `mkdir ssh` and then logout. Then `scp` the location of the file to the server by using the command `scp /Users/username/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys'
 * When you log in it should look like this:
 ![Image](sshlogin.png)
+### Step 6: Optimizing Remote Running
+* You can run multiply commands on the same line by using semi-colons to distiguish them.
+```
+javac file.java; java file
+```
+* You can use the arrow keys to retry compiling and interpret the same file.
+* Finally, you can use the code below to log in, show file directories, and log out.
+```
+ssh cs15lwi22@ieng6.ucsd.edu "ls"
+```
+![Image](step6.png)
+`"ls"` could also be replaced with other commands such as `scp` etc.
