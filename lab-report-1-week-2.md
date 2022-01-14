@@ -41,7 +41,7 @@ The outcome should look like this.
 ![Image](tryingcom.png)
 
 * Ctrl - D or `exit` to logout.
----
+
 ---
 ### Step 4: Moving Files With `scp`
 * Create a file and save it on your client folder.
