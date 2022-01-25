@@ -82,5 +82,7 @@ ssh cs15lwi22@ieng6.ucsd.edu "ls"
 ```
 
 ![Image](step6.png)
+
 *Keystroke:* To run the command above I used 2 keystrokes. I hit the up arrow to get the `ssh cs15lwi22atv@ieng6.ucsd.edu` command and enter key to run the command. 
+
 `"ls"` could also be replaced with other commands such as `scp` etc.
