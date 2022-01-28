@@ -24,12 +24,12 @@ ms.md is a file that has () but no []:
 [ms.md](https://github.com/sos-nandita/markdown-parse/blob/main/ms.md)
 
 Code changes:
-![Image](msruncode.png)
+![Image](ss2runcode.png)
 
 In this program, we had to make sure that the bugs lack of [] was read. As a result, we initially made it exit the loop if those brackets weren't found. I forgot to commit changes when we just had brackets (oops) but it was the tow underlined commands in the if statement.
 
 Output when run: 
-![Image](ss2changes.png)
+![Image](msruncode.png)
 
 ---
 
