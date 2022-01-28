@@ -2,8 +2,9 @@
 
 ## Topic: Testing an debugging
 Incremental Programming and Debugging
+
 ---
----
+
 ### Example 1: cs1.md
 cs1.md is a file that has a bunch of spaces in between the [] and ():
 [cs1.md](https://github.com/sos-nandita/markdown-parse/blob/main/cs1.md)
