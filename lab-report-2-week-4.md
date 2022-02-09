@@ -15,7 +15,7 @@ Code changes:
 We made sure that when the program looks in between the () & [] the gap is only 1 index. So when the program sees a bunch of spaces in between the two characters, it returns an empty link. 
 
 Output when run:
-![Image](cs1runcode.png)
+![Image](mpss1.png)
 
 ---
 
