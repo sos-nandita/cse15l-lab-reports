@@ -12,7 +12,7 @@ cs1.md is a file that has a bunch of spaces in between the [] and ():
 Code changes:
 ![Image](ss1changes.png)
 
-We made sure that when the program looks in between the () & [] the gap is only 1 index. So when the program sees a bunch of spaces in between the two characters, it returns an empty link. 
+We made sure that when the program looks in between the () & [] the gap is only 1 index. So when the program sees a bunch of spaces in between the two characters, it throws and IndexOutOfBounds exception.
 
 Output when run:
 ![Image](mpss1.png)
