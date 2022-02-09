@@ -43,4 +43,4 @@ Code changes:
 In this program, we had to make sure that the bugs lack of () was read. As a result, we initially made it exit the loop if those parenthesis weren't found. As a result, we made sure all [] and () were found in order for the code to exectue properly. 
 
 Output when run:
-![Image](woohooruncode.png)
+![Image](woohooruncode.png) 
