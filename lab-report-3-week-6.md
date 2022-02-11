@@ -26,6 +26,8 @@ Logging in should look like this:
 
 ![Image](lab3ssh.png)
 
+---
+
 ### Step 3: `scp` files
 
 We can now use:
