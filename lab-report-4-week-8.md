@@ -64,16 +64,16 @@ And then there's more text
 
 ## Tests added in my repository
 
-[!Image](lab4-tests.png)
+![Image](lab4-tests.png)
 
 ## Output
 
-[!Image](lab4-imptesting.png)
+![Image](lab4-imptesting.png)
 
 ## Peer Output
 
-[!Image](lab4-p1-review.png)
-[!Image](lab4-p2-review.png)
+![Image](lab4-p1-review.png)
+![Image](lab4-p2-review.png)
 
 ## Questions
 
@@ -81,9 +81,13 @@ And then there's more text
 
 I don't think it is necessary to include so many lines of code to make the code work for snippet one. I think that in MarkdownParse. java, just adding another if statement that checks for backticks or an if statement that checks if there is ANY symbol in given locations is present. 
 
+---
+
 *Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.*
 
 I feel like this code change would be much lenghtier than the previous becuase we are checking for specifc characters and whether they exist or not. So adding in a series of if statements could possibly work. 
+
+---
 
 *Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.*
 
