@@ -64,16 +64,16 @@ And then there's more text
 
 ## Tests added in my repository
 
-![Image](lab4-tests.png)
+![Image](lab4 tests.png)
 
 ## Output
 
-![Image](lab4-imptesting.png)
+![Image](lab4 imptesting.png)
 
 ## Peer Output
 
-![Image](lab4-p1-review.png) \
-![Image](lab4-p2-review.png)
+![Image](lab4 p1 review.png) \
+![Image](lab4 p2 review.png)
 
 ## Questions
 
