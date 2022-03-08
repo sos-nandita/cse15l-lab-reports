@@ -72,8 +72,8 @@ And then there's more text
 
 ## Peer Output
 
-![Image](lab4p1review.png) \
-![Image](lab4p2review.png)
+![Image](lab4ss1.png) \
+![Image](lab4ss2.png) \
 
 ## Questions
 
