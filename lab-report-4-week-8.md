@@ -73,7 +73,7 @@ And then there's more text
 ## Peer Output
 
 ![Image](lab4ss1.png) \
-![Image](lab4ss2.png) \
+![Image](lab4ss2.png) 
 
 ## Questions
 
