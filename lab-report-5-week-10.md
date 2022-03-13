@@ -7,9 +7,9 @@ In this lab report, I am going to show *two* different tests that gave different
 
 In our lab, we used the command below to compare the given tests. 
 
-'''
-` $ diff results.txt ../their/markdown-parse/results.txt`
-'''
+```
+ $ diff results.txt ../their/markdown-parse/results.txt
+```
 
 In implementation:
 ![image](lab5ss2.png)
