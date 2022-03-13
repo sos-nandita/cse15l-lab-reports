@@ -16,8 +16,6 @@ In our lab, we used the command below to compare the given tests.
 The file contains the following:
 
 '''
-
 [foo](/bar\* "ti\*tle")
-
 '''
 
