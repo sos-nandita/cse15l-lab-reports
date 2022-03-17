@@ -30,6 +30,8 @@ The results after running the command were:
 
 As we can see, mark-down parse returned the value `[/bar\* "ti\*tle"]` whereas the given implementaion returned `[]`
 
+The expected is `[]` (i.e. Prof. implementation). So the my implementation was incorrect.
+
 My code:
 ```
 public static ArrayList<String> getLinks(String markdown) {
@@ -77,6 +79,8 @@ The results after running the commands were:
 ![image](lab5ss3.png)
 
 As we can see, mark-down parse returned the value `[]` whereas the given implementaion returned `[/url]`
+
+The expected is `[]` (i.e. my implementation). So the Prof. was incorrect.
 
 Prof. code: 
 
